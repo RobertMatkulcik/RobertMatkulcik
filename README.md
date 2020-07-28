@@ -1,4 +1,5 @@
-### WELCOME 👋
+### Greeting sir! 👋
+Shortly about me:
 3+ year of web development Backend, Frontend, DB... 
 
 PHP, Python, Javascript, VUE, ancient Babylonian, Sanskrit... And the language of pure sarcasm.
