@@ -2,7 +2,7 @@
 Shortly about me:
 3+ year of web development Backend, Frontend, DB... 
 
-PHP, Python, Javascript, VUE, ancient Babylonian, Sanskrit... And the language of pure sarcasm.
+PHP (Laravel, October CMS), Python (Flask), Javascript (Vue), ancient Babylonian, Sanskrit... And the language of pure sarcasm.
 
 <!--
 **RobertMatkulcik/RobertMatkulcik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
