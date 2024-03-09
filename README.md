@@ -1,8 +1,8 @@
 ### Greeting sir! 👋
 Shortly about me:
-3+ year of web development Backend, Frontend, DB... 
+5+ year of web development Backend, Frontend, DB... 
 
-PHP (Laravel, October CMS), Python (Flask), Javascript (Vue), ancient Babylonian, Sanskrit... And the language of pure sarcasm.
+PHP (Laravel, October CMS), Python (Flask), Javascript (Vue), Bash, ancient Babylonian, Sanskrit... And the language of pure sarcasm.
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RobertMatkulcik&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
